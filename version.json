@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "v1.0.8-PRO",
-  "title": "KMtube v1.0.8-PRO Update Available",
-  "changelog": "\u2022 Commercial In-Stream Video Clip Ads (ExoClick VAST 3.0 MP4)\n\u2022 Shorts real video ad integration\n\u2022 High performance zero-gap playback & instant prefetch\n\u2022 Clean UI - purged fake bars & mock ads",
-  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.8/KMtube.apk",
+  "versionCode": 10,
+  "versionName": "v1.0.9-PRO",
+  "title": "KMtube v1.0.9-PRO Update Available",
+  "changelog": "- Profile Branding: With Love from KMtube\n- High performance playback & instant prefetch\n- Real-time OTA telemetry & Auto-Update sync",
+  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.9/KMtube.apk",
   "forceUpdate": false
 }
