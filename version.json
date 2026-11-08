@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "v1.0.16-PRO",
-  "title": "KMtube v1.0.16-PRO Update Available",
-  "changelog": "- Profile Branding: With Love from KMtube\n- High performance playback & instant prefetch\n- Real-time OTA telemetry & Auto-Update sync",
-  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.16/KMtube.apk",
+  "versionCode": 18,
+  "versionName": "v1.0.17-PRO",
+  "title": "KMtube v1.0.17-PRO Update Available",
+  "changelog": "\u2022 YouTube-Style Startup Splash Boot Screen with Centered Animated Logo\n\u2022 Signature Community Love Lines and Boot Progress\n\u2022 Working YouTube Notifications Center and Unread Red Badge\n\u2022 Full-Width Flat YouTube Cards and Zero-Gap Adaptive Ambient Glow\n\u2022 Biometric Lock Disabled by Default (Optional in Settings)",
+  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.17/KMtube.apk",
   "forceUpdate": false
 }
