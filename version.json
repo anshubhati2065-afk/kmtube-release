@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "v1.0.15-PRO",
-  "title": "KMtube v1.0.15-PRO Update Available",
+  "versionCode": 17,
+  "versionName": "v1.0.16-PRO",
+  "title": "KMtube v1.0.16-PRO Update Available",
   "changelog": "- Profile Branding: With Love from KMtube\n- High performance playback & instant prefetch\n- Real-time OTA telemetry & Auto-Update sync",
-  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.15/KMtube.apk",
+  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.16/KMtube.apk",
   "forceUpdate": false
 }
