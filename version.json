@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "v1.0.19-PRO",
-  "title": "KMtube v1.0.19-PRO Update Available",
-  "changelog": "\u2022 Real-Time Video Watch Time Tracking: live seconds accumulation across Watch and Shorts\n\u2022 Top Bar Avatar updated to 'U' (User profile)\n\u2022 YouTube Search Navigation Flow: seamless search results persistence\n\u2022 In-Feed Commercial Ads between recommendations below autoplay",
-  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.19/KMtube.apk",
+  "versionCode": 21,
+  "versionName": "v1.0.20-PRO",
+  "title": "KMtube v1.0.20-PRO Update Available",
+  "changelog": "\u2022 Clean Monetized Download & Viral Share with 1-Video-1-Ad frequency lock\n\u2022 Native WhatsApp/Telegram Share with direct app invite link\n\u2022 Ultra fast background download initiation on sponsor unlock\n\u2022 Real-Time Video Watch Time Tracking Engine",
+  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.20/KMtube.apk",
   "forceUpdate": false
 }
