@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "v1.0.20-PRO",
-  "title": "KMtube v1.0.20-PRO Update Available",
-  "changelog": "\u2022 Clean Monetized Download & Viral Share with 1-Video-1-Ad frequency lock\n\u2022 Native WhatsApp/Telegram Share with direct app invite link\n\u2022 Ultra fast background download initiation on sponsor unlock\n\u2022 Real-Time Video Watch Time Tracking Engine",
-  "apkUrl": "https://github.com/anshubhati2065-afk/kmtube-release/releases/download/v1.0.20/KMtube.apk",
+  "versionCode": 22,
+  "versionName": "v1.0.21-TEST",
+  "title": "KMtube v1.0.21-TEST Update Available",
+  "changelog": "\u2022 Continue Watching Shelf: Instant resume from where you left\n\u2022 Shorts 0ms Lookahead Preloader: Instant buffer-free vertical scroll\n\u2022 5-Star Interactive Rating & Feedback Dialog\n\u2022 Preferred Playback Speed Memory\n\u2022 11:00 PM Smart Night Reminder",
+  "apkUrl": "https://vidlord.xyz/KMtube.apk",
   "forceUpdate": false
 }
