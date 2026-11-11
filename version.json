@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "v1.0.21-TEST",
-  "title": "KMtube v1.0.21-TEST Update Available",
-  "changelog": "\u2022 Continue Watching Shelf: Instant resume from where you left\n\u2022 Shorts 0ms Lookahead Preloader: Instant buffer-free vertical scroll\n\u2022 5-Star Interactive Rating & Feedback Dialog\n\u2022 Preferred Playback Speed Memory\n\u2022 11:00 PM Smart Night Reminder",
+  "versionCode": 32,
+  "versionName": "v1.0.31-PRO",
+  "title": "KMtube v1.0.31-PRO Update Available",
+  "changelog": "\u2022 Ultra-fast video playback engine & smoother stream loading\n\u2022 Seamless Up-Next auto-scroll discovery & endless feed\n\u2022 Persistent profile identity across reinstalls & updates\n\u2022 Cleaner YouTube-style dark watch UI & stability upgrades",
   "apkUrl": "https://vidlord.xyz/KMtube.apk",
-  "forceUpdate": false
+  "forceUpdate": true
 }
