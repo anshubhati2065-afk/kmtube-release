@@ -1,16 +1,12 @@
 {
-  "app_status": "active",
-  "maintenance_message": "KMtube is currently undergoing scheduled maintenance.",
-  "api_base_url": "https://www.kamababa.org",
+  "latest_version_code": 42,
   "min_version_code": 41,
-  "latest_version_code": 41,
+  "forceUpdate": false,
+  "versionName": "v1.0.41-PRO",
+  "title": "KMtube v1.0.41-PRO: High Quality Videos Update",
+  "changelog": "\u2728 New High Quality HD Videos & Ultra-Crisp Shorts Feed!\n\u2022 Instant Full-Screen Vertical Experience (Zero Black Bars)\n\u2022 High Definition 1080p/720p Clean Streams & Faster Buffering\n\u2022 Smart Up-Next Recommendations with Zero Lag\n\u2022 Playback Engine & Stability Optimizations",
   "latest_apk_url": "https://vidlord.xyz/KMtube.apk",
-  "forceUpdate": true,
-  "exoclick_vast_url": "https://s.magsrv.com/v1/vast.php?idz=6083486",
-  "exoclick_popunder_zone_id": "6088148",
-  "exoclick_link_url": "https://s.pemsrv.com/v1/link.php?cat=&idzone=6088148&type=8",
-  "blocked_users": [],
-  "blocked_devices": [],
-  "announcement": "KMtube v1.0.40-PRO is live with enhanced Instagram branding and refined icon design!",
-  "versionName": "v1.0.40-PRO"
+  "apkUrl": "https://vidlord.xyz/KMtube.apk",
+  "release_stage": "released_normal",
+  "announcement": "\u2728 KMtube v1.0.41-PRO is live with High Quality HD Videos & Ultra-Crisp Shorts Feed!"
 }
